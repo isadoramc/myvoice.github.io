@@ -34,6 +34,14 @@ header{
   align-items: center;
 }
 
+.ajude2{
+  padding: 15px 20px 15px 20px;
+  background-color: var(--branco);
+  color: var(--preto);
+  border-radius: 30px;
+}
+
+
 .ajude{
   margin-right: 5vw;
   padding: 15px 20px 15px 20px;
